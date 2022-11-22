@@ -1,0 +1,19 @@
+Mau east=Zor
+Zor west=Mau south=Kaa
+Kaa north=Zor east=Fin
+Fin west=Kaa south=Xox
+Xox north=Fin west=Pip
+Pip east=Xox south=Orb
+Orb north=Pip west=Zaz south=Gra
+Zaz east=Orb
+Gra north=Orb east=Phi
+Phi west=Gra east=Lac
+Lac west=Phi north=Tom
+Tom south=Lac east=Jer
+Jer west=Tom north=Ita
+Ita south=Jer east=Ota
+Ota west=Ita north=Ata
+Ata south=Ota north=Wat
+Wat south=Ata west=Cel
+Cel east=Wat south=Xxx
+Xxx north=Cel
